@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: slateblue;
+}
+
+.nav-wrapper{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+    /* color: black; */
+    font-size: 25px;
+}
