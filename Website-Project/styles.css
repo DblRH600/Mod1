@@ -1,3 +1,4 @@
+
 body{
     text-align: center;
     background-color: slateblue;
@@ -9,4 +10,14 @@ body{
     padding-top: 10px;
     /* color: black; */
     font-size: 25px;
+}
+
+.fl-name {
+  display: inline-block;
+  justify-content: space-between;
+  width: auto;
+}
+
+.submit-btn {
+    margin-top: 20px;
 }
