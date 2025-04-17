@@ -1,0 +1,11 @@
+
+
+.fl-name {
+  display: inline-block;
+  justify-content: space-between;
+  width: auto;
+}
+
+.submit-btn {
+    margin-top: 20px;
+}
